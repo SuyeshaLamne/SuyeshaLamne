@@ -63,7 +63,7 @@ I’m a passionate data professional with over 3 years of experience building pi
 
 ## 📫 Let’s Connect!
 
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/suyesha-lamne/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/suyesha-lamne/])  
 - 📬 Email: suyeshalamne@gmail.com
 
 ---
