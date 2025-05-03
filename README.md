@@ -12,7 +12,7 @@ I’m a passionate data professional with over 3 years of experience building pi
 **ETL & Pipelines**: `Airflow`  · `DBT`  · `SSIS` · `Alteryx`  
 **Databases**: `Snowflake` · `BigQuery` · `MS SQL Server` · `Oracle`   
 **Cloud**: `AWS (S3, Redshift, Lambda)`  · `Azure Synapse`  · `GCP` 
-**Tools**: Git · JIRA · Streamlit · Confluence 
+**Tools**: `Git` · `JIRA` · `Streamlit` · `Confluence` 
 
 ---
 
