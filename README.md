@@ -7,12 +7,12 @@ I’m a passionate data professional with over 3 years of experience building pi
 
 ## 🧰 Tech Stack
 
-**Languages**: `Python` 🐍 · `SQL` 📊 · `R` 📈 · `DAX`  
-**BI Tools**: `Power BI` 📘 · `Tableau` 📊 · `Looker` 🧭 · `Excel` 📗  
-**ETL & Pipelines**: `Airflow` 🌬 · `DBT` 🧪 · `SSIS` 🏗 · `Alteryx` 🌀  
-**Databases**: `Snowflake` ❄ · `BigQuery` 🟦 · `MS SQL Server` · `Oracle` 🔶  
-**Cloud**: `AWS (S3, Redshift, Lambda)` ☁ · `Azure Synapse` 🔷 · `GCP` 🌍  
-**Tools**: Git 🌱 · JIRA 📋 · Streamlit ⚡ · Confluence 📘
+**Languages**: `Python` · `SQL` · `R` · `DAX`  
+**BI Tools**: `Power BI` · `Tableau` · `Looker` · `Excel` 
+**ETL & Pipelines**: `Airflow`  · `DBT`  · `SSIS` · `Alteryx`  
+**Databases**: `Snowflake` · `BigQuery` · `MS SQL Server` · `Oracle`   
+**Cloud**: `AWS (S3, Redshift, Lambda)`  · `Azure Synapse`  · `GCP` 
+**Tools**: Git · JIRA · Streamlit · Confluence 
 
 ---
 
