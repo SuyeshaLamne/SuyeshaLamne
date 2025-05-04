@@ -7,49 +7,46 @@ I’m a passionate data professional with over 3 years of experience building pi
 
 ## 🧰 Tech Stack
 
-**Languages**: `Python` · `SQL` · `R` · `DAX`  
-**BI Tools**: `Power BI` · `Tableau` · `Looker` · `Excel` 
-**ETL & Pipelines**: `Airflow`  · `DBT`  · `SSIS` · `Alteryx`  
-**Databases**: `Snowflake` · `BigQuery` · `MS SQL Server` · `Oracle`   
-**Cloud**: `AWS (S3, Redshift, Lambda)`  · `Azure Synapse`  · `GCP` 
-**Tools**: `Git` · `JIRA` · `Streamlit` · `Confluence` 
+**Languages**: Python, SQL, R, DAX  
+**BI Tools**: Power BI, Tableau, Looker, Excel  
+**ETL & Pipelines**: Airflow, DBT, SSIS, Alteryx  
+**Databases**: Snowflake, BigQuery, MS SQL Server, Oracle  
+**Cloud**: AWS (S3, Redshift, Lambda), Azure Synapse, GCP  
+**Tools**: Git, JIRA, Streamlit, Confluence
 
 ---
 
 ## 🔍 Featured Projects
 
-### 💸 1. Bank Loan Performance Analytics  
+### 💸 1. [Bank Loan Performance Analytics](https://public.tableau.com/views/BankLoanReport_17431111023620/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 📌 **Tools**: SQL, Tableau  
-🧠 Built a dynamic dashboard to analyze borrower risk, credit grades, and delinquency trends.  
-🔗 [View Dashboard]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/views/BankLoanReport_17431111023620/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))(#) | [Source Code](#)
+🧠 Built a dynamic dashboard to analyze borrower risk, credit grades, and delinquency trends.
 
 ---
 
 ### ⚙ 2. Transaction Pulse: Real-Time ELT Pipeline  
 📌 **Tools**: Apache Airflow, PySpark, DBT, Snowflake, Looker  
 📡 Built a streaming pipeline for financial transactions with automated scheduling and transformations.  
-🔗 [Project Report](#)
+🔗 *Link available upon request or private repo*
 
 ---
 
-### 🤖 3. AI-Powered Resume Screener  
+### 🤖 3. [AI-Powered Resume Screener (Demo Video)](https://youtu.be/dMODRvqjwKE?si=Duv1dWvc19TFifhj)  
 📌 **Tools**: OpenAI API, Pinecone, Streamlit  
-📂 Designed a semantic search engine to match resumes with job descriptions using embeddings.  
-🔗 [Live Demo](#) | [Codebase](#)
+📂 Designed a semantic search engine to match resumes with job descriptions using embeddings.
 
 ---
 
-### 🌱 4. ESG Compliance Dashboard  
-📌 **Tools**: Tableau, AWS Redshift, Alteryx  
-📊 Developed a compliance monitoring dashboard with real-time ESG KPIs and regulatory alignment.  
-🔗 [Interactive View](#)
+### 👥 4. [HR Analytics Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17330798584100/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📌 **Tools**: Tableau, Alteryx  
+📊 Built an HR dashboard to visualize turnover, hiring trends, and workforce planning insights.
 
 ---
 
 ### 📈 5. Stock Optimate  
 📌 **Tools**: SQL Server, React, Power BI  
 💹 Created an interactive web app for visualizing stock metrics and financial forecasts.  
-🔗 [Demo App](#)
+🔗 *Link available upon request or in GitHub repo*
 
 ---
 
@@ -61,10 +58,10 @@ I’m a passionate data professional with over 3 years of experience building pi
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Contact
 
-- 💼 [LinkedIn](https://linkedin.com/in/suyesha-lamne/)  
-- 📬 Email: suyeshalamne@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/suyesha-lamne/)  
+- 📬 Email: [suyeshalamne@gmail.com](mailto:suyeshalamne@gmail.com)
 
 ---
 
