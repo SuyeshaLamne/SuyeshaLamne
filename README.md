@@ -21,7 +21,7 @@ I’m a passionate data professional with over 3 years of experience building pi
 ### 💸 1. Bank Loan Performance Analytics  
 📌 **Tools**: SQL, Tableau  
 🧠 Built a dynamic dashboard to analyze borrower risk, credit grades, and delinquency trends.  
-🔗 [https://public.tableau.com/views/BankLoanReport_17431111023620/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](#) | [Source Code](#)
+🔗 [View Dashboard]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/views/BankLoanReport_17431111023620/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))(#) | [Source Code](#)
 
 ---
 
