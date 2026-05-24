@@ -28,7 +28,7 @@ Currently, I work at **Crayola as an AI Engineer**, where I develop AI agents, a
   <tr>
     <td width="50%">
       <h3>🤖 AI Agents & BI Automation at Crayola</h3>
-      <p><b>Tools:</b> Python, Power BI, SQL, OpenAI API, Prompt Engineering</p>
+      <p><b>Tools:</b> Python, Power BI, SQL, OpenAI API, Microsoft Azure, Azure Foundry, Copilot, Prompt Engineering</p>
       <p>Developed AI-powered tools and agent workflows to automate business tasks, improve reporting efficiency, and support BI operations.</p>
       <ul>
         <li>Built AI agents for internal workflow automation</li>
