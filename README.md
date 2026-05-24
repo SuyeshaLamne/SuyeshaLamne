@@ -11,7 +11,6 @@
   <a href="#featured-projects">Projects</a> •
   <a href="#technical-skills">Skills</a> •
   <a href="#current-experience">Experience</a> •
-  <a href="#connect-with-me">Contact</a>
 </p>
 
 ---
