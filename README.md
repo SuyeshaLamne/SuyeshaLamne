@@ -1,28 +1,128 @@
 # 👩‍💻 Suyesha Lamne  
 ## AI Engineer | Data Analyst | BI Developer | Data Engineer  
 
-Welcome to my **Data Analytics, AI & Engineering Portfolio** 🚀  
-I’m a data and AI professional with 3+ years of experience building AI-powered solutions, data pipelines, automation workflows, and interactive dashboards that drive business outcomes.
+<p align="center">
+  <b>Building AI agents, analytics automation, BI dashboards, and scalable data solutions.</b>
+</p>
 
-I enjoy working at the intersection of **AI engineering, business intelligence, data analytics, and automation** to solve real-world business problems and improve decision-making.
+<p align="center">
+  <a href="https://www.linkedin.com/in/suyesha-lamne/">LinkedIn</a> •
+  <a href="mailto:suyeshalamne@gmail.com">Email</a> •
+  <a href="#featured-ai--data-projects">Projects</a> •
+  <a href="#technical-toolkit">Skills</a>
+</p>
 
 ---
 
-## 🌟 About Me
+## 🚀 Portfolio Snapshot
 
-I specialize in building end-to-end data and AI solutions — from designing data pipelines and developing dashboards to building AI agents and automating business workflows.
+I’m a data and AI professional with 3+ years of experience building **AI-powered workflows, business intelligence dashboards, data pipelines, and automation solutions**.
 
-Currently, I work at **Crayola as an AI Engineer**, where I focus on developing AI-powered tools, agents, and automation solutions that improve productivity, reporting efficiency, and business operations.
+Currently, I work at **Crayola as an AI Engineer**, where I develop AI agents, automate analytics workflows, and support Power BI reporting initiatives that improve productivity and decision-making.
 
-My work focuses on:
+---
 
-- Developing AI agents and AI-powered business applications  
-- Building automation workflows using Python and modern AI tools  
-- Designing Power BI dashboards for business reporting and KPI tracking  
-- Supporting BI tasks such as data modeling, reporting, and dashboard optimization  
-- Creating scalable data pipelines and analytics workflows  
-- Collaborating with cross-functional teams to understand business needs  
-- Applying prompt engineering and LLM-based solutions to real business use cases  
+## 🔥 Featured AI & Data Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Agents & BI Automation at Crayola</h3>
+      <p><b>Tools:</b> Python, Power BI, SQL, OpenAI API, Prompt Engineering</p>
+      <p>Developed AI-powered tools and agent workflows to automate business tasks, improve reporting efficiency, and support BI operations.</p>
+      <ul>
+        <li>Built AI agents for internal workflow automation</li>
+        <li>Created prompt-based AI solutions for business use cases</li>
+        <li>Supported Power BI dashboards and KPI reporting</li>
+        <li>Automated manual reporting steps using Python</li>
+      </ul>
+      <p><b>Status:</b> Professional project — details available upon request</p>
+    </td>
+    <td width="50%">
+      <h3>🧠 AI-Powered Resume Screener</h3>
+      <p><b>Tools:</b> OpenAI API, Pinecone, Streamlit</p>
+      <p>Designed a semantic search application that matches resumes with job descriptions using embeddings and vector search.</p>
+      <ul>
+        <li>Used OpenAI embeddings for resume-job matching</li>
+        <li>Stored vector data in Pinecone</li>
+        <li>Built an interactive Streamlit demo</li>
+        <li>Improved matching using semantic similarity</li>
+      </ul>
+      <p>
+        <a href="https://youtu.be/dMODRvqjwKE?si=Duv1dWvc19TFifhj">🎥 Watch Demo</a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Transaction Pulse: Real-Time ELT Pipeline</h3>
+      <p><b>Tools:</b> Apache Airflow, PySpark, DBT, Snowflake, Looker</p>
+      <p>Built a real-time ELT pipeline for financial transaction processing, automated scheduling, and analytics-ready reporting.</p>
+      <ul>
+        <li>Orchestrated workflows using Airflow</li>
+        <li>Processed high-volume data with PySpark</li>
+        <li>Modeled warehouse data using DBT</li>
+        <li>Created Looker dashboards for monitoring</li>
+      </ul>
+      <p><b>Status:</b> Private repo — link available upon request</p>
+    </td>
+    <td width="50%">
+      <h3>📈 Stock Optimate</h3>
+      <p><b>Tools:</b> SQL Server, React, Power BI</p>
+      <p>Created an interactive financial analytics web app for exploring stock metrics, financial KPIs, trends, and forecasts.</p>
+      <ul>
+        <li>Designed SQL Server data structure</li>
+        <li>Built React-based user interface</li>
+        <li>Created Power BI financial dashboards</li>
+        <li>Enabled metric and forecast exploration</li>
+      </ul>
+      <p><b>Status:</b> Link available upon request or in GitHub repo</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Dashboard Projects
+
+<details open>
+<summary><b>💸 Bank Loan Performance Analytics</b></summary>
+
+<br>
+
+**Tools:** SQL, Tableau  
+
+Built an interactive dashboard to analyze borrower risk, credit grades, payment behavior, and delinquency trends.
+
+**Highlights**
+- Analyzed loan performance across customer segments  
+- Tracked borrower risk and repayment patterns  
+- Visualized funded amount, interest rate, DTI, and loan status  
+- Identified patterns across good loans and risky loans  
+
+🔗 [View Dashboard](https://public.tableau.com/views/BankLoanReport_17431111023620/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+</details>
+
+<details>
+<summary><b>👥 HR Analytics Dashboard</b></summary>
+
+<br>
+
+**Tools:** Tableau, Alteryx  
+
+Developed an HR dashboard to visualize employee turnover, hiring trends, workforce demographics, and planning insights.
+
+**Highlights**
+- Visualized employee attrition and workforce trends  
+- Prepared and transformed data using Alteryx  
+- Built Tableau dashboard for HR decision-making  
+- Supported workforce planning through KPI tracking  
+
+🔗 [View Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17330798584100/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+</details>
 
 ---
 
@@ -31,188 +131,41 @@ My work focuses on:
 ### 🖍️ Crayola — AI Engineer  
 **Dec 2025 – Present | Remote**
 
-At Crayola, I work on AI engineering, business intelligence, and automation initiatives focused on improving operational efficiency and decision-making.
+At Crayola, I work on **AI agents, automation, Power BI reporting, and BI analytics workflows**. My role focuses on building AI-powered solutions that reduce manual work, improve dashboard efficiency, and support business teams with faster insights.
 
-### Key Responsibilities
-
-- Develop AI agents and AI-powered tools to automate internal business workflows  
-- Build and optimize Power BI dashboards for reporting, KPI tracking, and business insights  
-- Use Python, SQL, and AI APIs to automate manual reporting and analytics processes  
-- Support BI tasks including data validation, dashboard enhancement, and performance monitoring  
-- Work with cross-functional teams to gather requirements and translate business problems into technical solutions  
-- Apply prompt engineering techniques to improve AI outputs, user experience, and workflow accuracy  
-- Explore and prototype AI use cases for productivity, reporting, and business process automation  
-
-### Impact Areas
-
-- AI agents development  
-- Business intelligence reporting  
-- Dashboard automation  
-- Power BI development  
-- Data analytics and visualization  
-- Workflow automation  
-- Prompt engineering  
-- Cross-functional collaboration  
+**Focus Areas:**  
+`AI Agents` `Power BI` `Python Automation` `SQL` `Prompt Engineering` `BI Reporting` `Workflow Automation`
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Technical Toolkit
 
-### AI Engineering & Automation  
-`AI Agents` `Prompt Engineering` `OpenAI API` `LLMs` `Workflow Automation` `Python Automation`
+### 🤖 AI Engineering  
+`AI Agents` `OpenAI API` `Prompt Engineering` `LLMs` `Semantic Search` `Workflow Automation`
 
-### Programming & Analytics  
-`Python` `SQL` `R` `DAX`
+### 📊 Business Intelligence  
+`Power BI` `Tableau` `Looker` `Excel` `DAX` `KPI Reporting`
 
-### Business Intelligence  
-`Power BI` `Tableau` `Looker` `Excel`
+### ⚙️ Data Engineering  
+`Python` `SQL` `PySpark` `Apache Airflow` `DBT` `SSIS` `Alteryx`
 
-### ETL & Data Pipelines  
-`Apache Airflow` `DBT` `SSIS` `Alteryx` `PySpark`
+### 🗄️ Databases & Warehousing  
+`Snowflake` `BigQuery` `SQL Server` `MS SQL Server` `Oracle`
 
-### Databases & Warehousing  
-`Snowflake` `BigQuery` `MS SQL Server` `Oracle` `SQL Server`
-
-### Cloud & Data Platforms  
-`AWS S3` `AWS Redshift` `AWS Lambda` `Azure Synapse` `GCP`
-
-### Tools & Collaboration  
-`Git` `JIRA` `Streamlit` `Confluence`
+### ☁️ Cloud & Tools  
+`AWS S3` `AWS Redshift` `AWS Lambda` `Azure Synapse` `GCP` `Git` `JIRA` `Streamlit` `Confluence`
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 What You’ll Find Here
 
-## 1. 💸 Bank Loan Performance Analytics  
-**Tools:** SQL, Tableau  
-
-Built an interactive Tableau dashboard to analyze loan applications, borrower risk, credit grades, payment behavior, and delinquency trends.
-
-### Key Highlights
-- Analyzed loan performance across customer segments  
-- Tracked borrower risk and repayment patterns  
-- Visualized KPIs such as funded amount, interest rate, debt-to-income ratio, and loan status  
-- Helped identify trends in good loans vs. risky loans  
-
-🔗 [View Dashboard](https://public.tableau.com/views/BankLoanReport_17431111023620/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
-## 2. ⚙️ Transaction Pulse: Real-Time ELT Pipeline  
-**Tools:** Apache Airflow, PySpark, DBT, Snowflake, Looker  
-
-Designed a real-time ELT pipeline for processing financial transaction data with automated scheduling, transformation, and reporting workflows.
-
-### Key Highlights
-- Built automated data ingestion and transformation workflows  
-- Used Airflow for orchestration and scheduling  
-- Processed high-volume transaction data using PySpark  
-- Modeled clean analytics-ready data in Snowflake using DBT  
-- Created Looker dashboards for transaction monitoring  
-
-🔗 *Private repo — link available upon request*
-
----
-
-## 3. 🤖 AI-Powered Resume Screener  
-**Tools:** OpenAI API, Pinecone, Streamlit  
-
-Created an AI-powered resume screening tool that uses semantic search and embeddings to match resumes with job descriptions.
-
-### Key Highlights
-- Used OpenAI embeddings to compare resumes and job descriptions  
-- Stored and searched vectorized resume data using Pinecone  
-- Built an interactive Streamlit interface for users  
-- Improved resume-job matching using semantic similarity  
-
-🎥 [Watch Demo Video](https://youtu.be/dMODRvqjwKE?si=Duv1dWvc19TFifhj)
-
----
-
-## 4. 👥 HR Analytics Dashboard  
-**Tools:** Tableau, Alteryx  
-
-Developed an HR analytics dashboard to help visualize employee turnover, hiring trends, workforce demographics, and planning insights.
-
-### Key Highlights
-- Created visual insights into employee attrition and workforce trends  
-- Used Alteryx for data preparation and transformation  
-- Built an interactive Tableau dashboard for HR decision-making  
-- Supported workforce planning through KPI tracking  
-
-🔗 [View Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17330798584100/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
-## 5. 📈 Stock Optimate  
-**Tools:** SQL Server, React, Power BI  
-
-Built an interactive financial analytics web application for visualizing stock metrics, market trends, and forecasted performance.
-
-### Key Highlights
-- Designed SQL Server database structure for stock market data  
-- Created a React-based interface for user interaction  
-- Built Power BI dashboards to visualize financial KPIs  
-- Enabled users to explore trends, metrics, and forecasts  
-
-🔗 *Link available upon request or in GitHub repo*
-
----
-
-## 6. 🤖 AI Agents & BI Automation at Crayola  
-**Tools:** Python, Power BI, SQL, OpenAI API, Prompt Engineering  
-
-Developed AI-powered automation solutions and supported BI reporting workflows to improve productivity, reporting accuracy, and business decision-making.
-
-### Key Highlights
-- Built AI agents to automate repetitive business and reporting tasks  
-- Developed prompt-based workflows for AI-assisted business use cases  
-- Supported Power BI dashboard development and KPI reporting  
-- Automated manual reporting steps using Python and AI tools  
-- Collaborated with stakeholders to identify opportunities for AI and BI improvements  
-- Helped improve reporting efficiency through automation and dashboard optimization  
-
-🔗 *Professional project — details available upon request*
-
----
-
-## 📌 Portfolio Focus Areas
-
-This portfolio highlights my experience across:
-
-- AI Engineering  
-- AI Agents Development  
-- Business Intelligence  
-- Data Analytics  
-- Data Engineering  
-- Dashboard Development  
-- Power BI Reporting  
-- Data Pipeline Automation  
-- AI-Powered Analytics  
-- Workflow Automation  
-- Financial and HR Analytics  
-- Cloud-Based Data Solutions  
-
----
-
-## 🧭 Explore My Work
-
-- 🤖 AI Agents & Automation Projects  
-- 📊 Featured Dashboards  
-- ⚙️ Data Engineering Projects  
-- 📈 Business Intelligence Use Cases  
-- 🧠 End-to-End Analytics Solutions  
-
----
-
-## 📫 Let’s Connect
-
-I’m always open to opportunities, collaboration, feedback, or conversations around data, analytics, and AI.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/suyesha-lamne/)  
-- 📬 [Email Me](mailto:suyeshalamne@gmail.com)
-
----
-
-⭐ Thank you for visiting my portfolio!  
-If you found this repository helpful or interesting, feel free to star it and connect with me.
+```mermaid
+graph TD
+    A[Data Portfolio] --> B[AI Agents]
+    A --> C[BI Dashboards]
+    A --> D[Data Engineering]
+    A --> E[Automation]
+    B --> F[OpenAI + Prompt Engineering]
+    C --> G[Power BI + Tableau]
+    D --> H[Airflow + DBT + Snowflake]
+    E --> I[Python + Workflow Automation]
