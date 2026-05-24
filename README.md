@@ -1,28 +1,65 @@
 # 👩‍💻 Suyesha Lamne  
-## Data Analyst | Data Engineer | BI Developer  
+## AI Engineer | Data Analyst | BI Developer | Data Engineer  
 
-Welcome to my **Data Analytics & Engineering Portfolio** 🚀  
-I’m a data professional with 3+ years of experience transforming raw data into meaningful insights through scalable pipelines, automated workflows, and interactive dashboards.
+Welcome to my **Data Analytics, AI & Engineering Portfolio** 🚀  
+I’m a data and AI professional with 3+ years of experience building AI-powered solutions, data pipelines, automation workflows, and interactive dashboards that drive business outcomes.
 
-I enjoy working at the intersection of **data engineering, business intelligence, and AI-powered analytics** to solve real-world business problems and support smarter decision-making.
+I enjoy working at the intersection of **AI engineering, business intelligence, data analytics, and automation** to solve real-world business problems and improve decision-making.
 
 ---
 
 ## 🌟 About Me
 
-I specialize in building end-to-end data solutions — from designing data pipelines and cleaning complex datasets to developing dashboards that help teams track performance, identify trends, and make data-driven decisions.
+I specialize in building end-to-end data and AI solutions — from designing data pipelines and developing dashboards to building AI agents and automating business workflows.
+
+Currently, I work at **Crayola as an AI Engineer**, where I focus on developing AI-powered tools, agents, and automation solutions that improve productivity, reporting efficiency, and business operations.
 
 My work focuses on:
 
-- Designing scalable data pipelines and ELT workflows  
-- Building Power BI and Tableau dashboards for business reporting  
-- Automating manual reporting and analytics processes  
-- Creating data models for KPIs, forecasting, and operational insights  
-- Applying AI and semantic search to improve business workflows  
+- Developing AI agents and AI-powered business applications  
+- Building automation workflows using Python and modern AI tools  
+- Designing Power BI dashboards for business reporting and KPI tracking  
+- Supporting BI tasks such as data modeling, reporting, and dashboard optimization  
+- Creating scalable data pipelines and analytics workflows  
+- Collaborating with cross-functional teams to understand business needs  
+- Applying prompt engineering and LLM-based solutions to real business use cases  
+
+---
+
+## 💼 Current Experience
+
+### 🖍️ Crayola — AI Engineer  
+**Dec 2025 – Present | Remote**
+
+At Crayola, I work on AI engineering, business intelligence, and automation initiatives focused on improving operational efficiency and decision-making.
+
+### Key Responsibilities
+
+- Develop AI agents and AI-powered tools to automate internal business workflows  
+- Build and optimize Power BI dashboards for reporting, KPI tracking, and business insights  
+- Use Python, SQL, and AI APIs to automate manual reporting and analytics processes  
+- Support BI tasks including data validation, dashboard enhancement, and performance monitoring  
+- Work with cross-functional teams to gather requirements and translate business problems into technical solutions  
+- Apply prompt engineering techniques to improve AI outputs, user experience, and workflow accuracy  
+- Explore and prototype AI use cases for productivity, reporting, and business process automation  
+
+### Impact Areas
+
+- AI agents development  
+- Business intelligence reporting  
+- Dashboard automation  
+- Power BI development  
+- Data analytics and visualization  
+- Workflow automation  
+- Prompt engineering  
+- Cross-functional collaboration  
 
 ---
 
 ## 🧰 Technical Skills
+
+### AI Engineering & Automation  
+`AI Agents` `Prompt Engineering` `OpenAI API` `LLMs` `Workflow Automation` `Python Automation`
 
 ### Programming & Analytics  
 `Python` `SQL` `R` `DAX`
@@ -122,16 +159,37 @@ Built an interactive financial analytics web application for visualizing stock m
 
 ---
 
+## 6. 🤖 AI Agents & BI Automation at Crayola  
+**Tools:** Python, Power BI, SQL, OpenAI API, Prompt Engineering  
+
+Developed AI-powered automation solutions and supported BI reporting workflows to improve productivity, reporting accuracy, and business decision-making.
+
+### Key Highlights
+- Built AI agents to automate repetitive business and reporting tasks  
+- Developed prompt-based workflows for AI-assisted business use cases  
+- Supported Power BI dashboard development and KPI reporting  
+- Automated manual reporting steps using Python and AI tools  
+- Collaborated with stakeholders to identify opportunities for AI and BI improvements  
+- Helped improve reporting efficiency through automation and dashboard optimization  
+
+🔗 *Professional project — details available upon request*
+
+---
+
 ## 📌 Portfolio Focus Areas
 
 This portfolio highlights my experience across:
 
-- Data Analytics  
+- AI Engineering  
+- AI Agents Development  
 - Business Intelligence  
+- Data Analytics  
 - Data Engineering  
 - Dashboard Development  
+- Power BI Reporting  
 - Data Pipeline Automation  
 - AI-Powered Analytics  
+- Workflow Automation  
 - Financial and HR Analytics  
 - Cloud-Based Data Solutions  
 
@@ -139,9 +197,9 @@ This portfolio highlights my experience across:
 
 ## 🧭 Explore My Work
 
+- 🤖 AI Agents & Automation Projects  
 - 📊 Featured Dashboards  
 - ⚙️ Data Engineering Projects  
-- 🤖 AI & Automation Projects  
 - 📈 Business Intelligence Use Cases  
 - 🧠 End-to-End Analytics Solutions  
 
