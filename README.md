@@ -1,5 +1,5 @@
 # 👩‍💻 Suyesha Lamne  
-## AI Engineer | Data Analyst | BI Developer | Data Engineer  
+## AI Engineer | BI Engineer | Data Engineer | Data Analyst
 
 <p align="center">
   <b>Building AI agents, analytics automation, BI dashboards, and scalable data solutions.</b>
