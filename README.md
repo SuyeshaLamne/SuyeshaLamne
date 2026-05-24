@@ -8,8 +8,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/suyesha-lamne/">LinkedIn</a> •
   <a href="mailto:suyeshalamne@gmail.com">Email</a> •
-  <a href="#featured-ai--data-projects">Projects</a> •
-  <a href="#technical-toolkit">Skills</a>
+  <a href="#featured-projects">Projects</a> •
+  <a href="#technical-skills">Skills</a> •
+  <a href="#current-experience">Experience</a> •
+  <a href="#connect-with-me">Contact</a>
 </p>
 
 ---
@@ -21,6 +23,8 @@ I’m a data and AI professional with 3+ years of experience building **AI-power
 Currently, I work at **Crayola as an AI Engineer**, where I develop AI agents, automate analytics workflows, and support Power BI reporting initiatives that improve productivity and decision-making.
 
 ---
+
+<a id="featured-projects"></a>
 
 ## 🔥 Featured AI & Data Projects
 
@@ -126,46 +130,95 @@ Developed an HR dashboard to visualize employee turnover, hiring trends, workfor
 
 ---
 
+<a id="current-experience"></a>
+
 ## 💼 Current Experience
 
 ### 🖍️ Crayola — AI Engineer  
 **Dec 2025 – Present | Remote**
 
-At Crayola, I work on **AI agents, automation, Power BI reporting, and BI analytics workflows**. My role focuses on building AI-powered solutions that reduce manual work, improve dashboard efficiency, and support business teams with faster insights.
+Working on **AI agents, BI automation, Power BI reporting, and analytics workflows** to reduce manual effort and improve business decision-making.
 
 **Focus Areas:**  
-`AI Agents` `Power BI` `Python Automation` `SQL` `Prompt Engineering` `BI Reporting` `Workflow Automation`
+`AI Agents` `Power BI` `Python Automation` `SQL` `Prompt Engineering` `BI Reporting` `Workflow Automation` `Azure Foundry`
 
 ---
+
+<a id="technical-skills"></a>
 
 ## 🧰 Technical Toolkit
 
-### 🤖 AI Engineering  
-`AI Agents` `OpenAI API` `Prompt Engineering` `LLMs` `Semantic Search` `Workflow Automation`
+<details open>
+<summary><b>🤖 AI Engineering</b></summary>
 
-### 📊 Business Intelligence  
-`Power BI` `Tableau` `Looker` `Excel` `DAX` `KPI Reporting`
+<br>
 
-### ⚙️ Data Engineering  
+`AI Agents` `OpenAI API` `Prompt Engineering` `LLMs` `Semantic Search` `Workflow Automation` `Azure Foundry` `Copilot`
+
+</details>
+
+<details open>
+<summary><b>📊 Business Intelligence</b></summary>
+
+<br>
+
+`Power BI` `Tableau` `Looker` `Excel` `DAX` `KPI Reporting` `Dashboard Development`
+
+</details>
+
+<details open>
+<summary><b>⚙️ Data Engineering</b></summary>
+
+<br>
+
 `Python` `SQL` `PySpark` `Apache Airflow` `DBT` `SSIS` `Alteryx`
 
-### 🗄️ Databases & Warehousing  
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Warehousing</b></summary>
+
+<br>
+
 `Snowflake` `BigQuery` `SQL Server` `MS SQL Server` `Oracle`
 
-### ☁️ Cloud & Tools  
-`AWS S3` `AWS Redshift` `AWS Lambda` `Azure Synapse` `GCP` `Git` `JIRA` `Streamlit` `Confluence`
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & Tools</b></summary>
+
+<br>
+
+`AWS S3` `AWS Redshift` `AWS Lambda` `Azure Synapse` `Microsoft Azure` `GCP` `Git` `JIRA` `Streamlit` `Confluence`
+
+</details>
 
 ---
 
-## 🧭 What You’ll Find Here
+## 🧭 Portfolio Map
 
 ```mermaid
 graph TD
-    A[Data Portfolio] --> B[AI Agents]
+    A[Data & AI Portfolio] --> B[AI Agents]
     A --> C[BI Dashboards]
     A --> D[Data Engineering]
     A --> E[Automation]
-    B --> F[OpenAI + Prompt Engineering]
-    C --> G[Power BI + Tableau]
-    D --> H[Airflow + DBT + Snowflake]
-    E --> I[Python + Workflow Automation]
+    A --> F[Analytics Applications]
+
+    B --> B1[OpenAI API]
+    B --> B2[Prompt Engineering]
+    B --> B3[Azure Foundry]
+
+    C --> C1[Power BI]
+    C --> C2[Tableau]
+    C --> C3[KPI Reporting]
+
+    D --> D1[Airflow]
+    D --> D2[DBT]
+    D --> D3[Snowflake]
+
+    E --> E1[Python Automation]
+    E --> E2[Workflow Optimization]
+
+    F --> F1[Streamlit]
+    F --> F2[React]
