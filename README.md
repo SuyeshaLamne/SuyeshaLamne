@@ -10,7 +10,7 @@
   <a href="mailto:suyeshalamne@gmail.com">Email</a> •
   <a href="#featured-projects">Projects</a> •
   <a href="#technical-skills">Skills</a> •
-  <a href="#current-experience">Experience</a> •
+  <a href="#current-experience">Experience</a> 
 </p>
 
 ---
