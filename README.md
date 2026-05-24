@@ -6,16 +6,26 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suyesha-lamne/">LinkedIn</a> •
-  <a href="mailto:suyeshalamne@gmail.com">Email</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#technical-skills">Skills</a> •
-  <a href="#current-experience">Experience</a> 
+  <a href="https://www.linkedin.com/in/suyesha-lamne/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suyeshalamne@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#technical-skills">
+    <img src="https://img.shields.io/badge/Skills-View-0891B2?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+  <a href="#academic-background">
+    <img src="https://img.shields.io/badge/Education-Academic%20Background-14B8A6?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Portfolio Snapshot
 
 I’m a data and AI professional with 3+ years of experience building **AI-powered workflows, business intelligence dashboards, data pipelines, and automation solutions**.
 
@@ -29,7 +39,7 @@ Currently, I work at **Crayola as an AI Engineer**, where I develop AI agents, a
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🤖 AI Agents & BI Automation at Crayola</h3>
       <p><b>Tools:</b> Python, Power BI, SQL, OpenAI API, Microsoft Azure, Azure Foundry, Copilot, Prompt Engineering</p>
       <p>Developed AI-powered tools and agent workflows to automate business tasks, improve reporting efficiency, and support BI operations.</p>
@@ -41,7 +51,7 @@ Currently, I work at **Crayola as an AI Engineer**, where I develop AI agents, a
       </ul>
       <p><b>Status:</b> Professional project — details available upon request</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🧠 AI-Powered Resume Screener</h3>
       <p><b>Tools:</b> OpenAI API, Pinecone, Streamlit</p>
       <p>Designed a semantic search application that matches resumes with job descriptions using embeddings and vector search.</p>
@@ -51,14 +61,12 @@ Currently, I work at **Crayola as an AI Engineer**, where I develop AI agents, a
         <li>Built an interactive Streamlit demo</li>
         <li>Improved matching using semantic similarity</li>
       </ul>
-      <p>
-        <a href="https://youtu.be/dMODRvqjwKE?si=Duv1dWvc19TFifhj">🎥 Watch Demo</a>
-      </p>
+      <p><a href="https://youtu.be/dMODRvqjwKE?si=Duv1dWvc19TFifhj">🎥 Watch Demo</a></p>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>⚙️ Transaction Pulse: Real-Time ELT Pipeline</h3>
       <p><b>Tools:</b> Apache Airflow, PySpark, DBT, Snowflake, Looker</p>
       <p>Built a real-time ELT pipeline for financial transaction processing, automated scheduling, and analytics-ready reporting.</p>
@@ -70,7 +78,7 @@ Currently, I work at **Crayola as an AI Engineer**, where I develop AI agents, a
       </ul>
       <p><b>Status:</b> Private repo — link available upon request</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📈 Stock Optimate</h3>
       <p><b>Tools:</b> SQL Server, React, Power BI</p>
       <p>Created an interactive financial analytics web app for exploring stock metrics, financial KPIs, trends, and forecasts.</p>
@@ -94,7 +102,7 @@ Currently, I work at **Crayola as an AI Engineer**, where I develop AI agents, a
 
 <br>
 
-**Tools:** SQL, Tableau  
+**Tools:** SQL, Tableau
 
 Built an interactive dashboard to analyze borrower risk, credit grades, payment behavior, and delinquency trends.
 
@@ -113,7 +121,7 @@ Built an interactive dashboard to analyze borrower risk, credit grades, payment 
 
 <br>
 
-**Tools:** Tableau, Alteryx  
+**Tools:** Tableau, Alteryx
 
 Developed an HR dashboard to visualize employee turnover, hiring trends, workforce demographics, and planning insights.
 
@@ -126,6 +134,29 @@ Developed an HR dashboard to visualize employee turnover, hiring trends, workfor
 🔗 [View Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17330798584100/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 </details>
+
+---
+
+<a id="academic-background"></a>
+
+## 🎓 Academic Background
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Master of Science in Information Systems</h3>
+      <p><b>Northeastern University</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Duration-2023--2025-06B6D4?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Location-Boston%2C%20MA-1E3A8A?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Status-Completed-10B981?style=for-the-badge" />
+      </p>
+      <p>
+        Completed a graduate program focused on information systems, analytics, data management, and technology-driven business solutions.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -145,52 +176,59 @@ Working on **AI agents, BI automation, Power BI reporting, and analytics workflo
 
 <a id="technical-skills"></a>
 
-## 🧰 Technical Toolkit
+## 🧰 Technical Skills
 
-<details open>
-<summary><b>🤖 AI Engineering</b></summary>
+### 🤖 AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workflow%20Automation-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20Foundry-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
-<br>
+### 📊 Business Intelligence
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KPI%20Reporting-0891B2?style=for-the-badge" />
+</p>
 
-`AI Agents` `OpenAI API` `Prompt Engineering` `LLMs` `Semantic Search` `Workflow Automation` `Azure Foundry` `Copilot`
+### ⚙️ Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSIS-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Alteryx-2563EB?style=for-the-badge" />
+</p>
 
-</details>
+### 🗄️ Databases & Warehousing
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
-<details open>
-<summary><b>📊 Business Intelligence</b></summary>
-
-<br>
-
-`Power BI` `Tableau` `Looker` `Excel` `DAX` `KPI Reporting` `Dashboard Development`
-
-</details>
-
-<details open>
-<summary><b>⚙️ Data Engineering</b></summary>
-
-<br>
-
-`Python` `SQL` `PySpark` `Apache Airflow` `DBT` `SSIS` `Alteryx`
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Warehousing</b></summary>
-
-<br>
-
-`Snowflake` `BigQuery` `SQL Server` `MS SQL Server` `Oracle`
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Tools</b></summary>
-
-<br>
-
-`AWS S3` `AWS Redshift` `AWS Lambda` `Azure Synapse` `Microsoft Azure` `GCP` `Git` `JIRA` `Streamlit` `Confluence`
-
-</details>
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
