@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Portfolio Snapshot
+## 🚀 About Me
 
 I’m a data and AI professional with 3+ years of experience building **AI-powered workflows, business intelligence dashboards, data pipelines, and automation solutions**.
 
